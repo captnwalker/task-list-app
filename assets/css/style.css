@@ -1,0 +1,16 @@
+.card {
+    background-color: rgb(201, 233, 222)
+}
+
+body {
+    background-color: #ce8dec;
+}
+
+.card-title {
+    color: red !important;
+    font-size: 3em !important;
+}
+
+#task-title {
+    color: blue;
+}
