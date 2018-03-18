@@ -5,7 +5,7 @@
 
 ### How to Use
 
->Enter task and click `Add Task`. Filter tasks by entering any letter in the `Filter Tasks` input field. Tasks may be deleted individualy by clicking the red :heavy_multiplication_x: or *clear* all by clicking the `Clear Tasks` button.
+>Enter task and click `Add Task`. Filter tasks by entering any letter in the `Filter Tasks` input field. Tasks may be deleted individualy by clicking the red :heavy_multiplication_x: or *clear all* by clicking the `Clear Tasks` button.
 
 ### Deployment
 
