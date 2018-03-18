@@ -12,6 +12,10 @@
 
 Follow this link to the [Task-List-App](https://captnwalker.github.io/task-list-app/) on the Web
 
+### Screenshot of this Project
+
+![Task List App](https://raw.github.com/captnwalker/task-list-app/master/assets/img/todo2.gif "Task List App")
+
 ### Technologies
 
 * "Vanilla" JavaScript

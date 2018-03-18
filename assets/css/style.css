@@ -1,25 +1,64 @@
 .card {
-    background-color: rgb(201, 233, 222)
+    background-color: rgba(75, 40, 44, 0.5);
+    margin-top: 4em;
+    border-radius: 5px;
 }
 
 body {
-    background-color: #ce8dec;
+    background: url(../img/beach.jpg);
+    background-color: rgb(236, 235, 232);
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 .card-title {
-    color: red !important;
-    font-size: 3em !important;
+    color: orange !important;
+    font-size: 2em !important;
     font-weight: 700 !important;
 }
 
+.card-content {
+    background-color: rgba(75, 40, 44, 0.5);
+}
+
 #task-title {
-    color: blue;
+    color: orange;
 }
 
 .collection-item {
-    background: rgb(243, 199, 132) !important;
+    background-color: rgba(75, 40, 44, 0.5);
 }
 
 .fa {
     color: red;
+}
+
+.card-title {
+    font-family: 'Rock Salt', cursive;
+    margin-top: 15px;
+}
+
+h4 {
+    font-family: 'Annie Use Your Telescope', cursive;
+    font-weight: bold;
+}
+
+.collection-item {
+    font-family: 'Rock Salt', cursive; 
+    font-weight: bold;
+}
+
+.collection {
+    color: purple;
+    border-color: aqua;
+    border-width: 4px;
+    border-radius: 10px
+}
+
+li {
+    background: rgb(222, 184, 135) !important;
+}
+
+#task, #filter {
+    color: white;
 }
