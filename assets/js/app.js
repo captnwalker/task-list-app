@@ -115,14 +115,17 @@ function storeTaskInLocalStorage(task) {
 
 // Remove task
 function removeTask(e) {
-    if(e.target.parentElement.classList.contains('delete-item')) {
-      if(confirm('Are You Sure?')) {
+    if(e.target.parentElement.classList.contains('delete-item')) 
+    // {
+    //   if(confirm('Are You Sure?'))   ---commented out annoying Alert
+      
+      {
         e.target.parentElement.parentElement.remove();
   
         // Remove from LS
         removeTaskFromLocalStorage(e.target.parentElement.parentElement);
       }
-    }
+    // }
   }
   
   // Remove from LS
