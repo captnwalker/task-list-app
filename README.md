@@ -1,6 +1,7 @@
 # Task List App
 
 ## Purpose of this App
+
 >A "To Do" List app written in "Vanilla" Java Script and styled with MaterializeCSS utilizing Local Storage
 
 ### How to Use
@@ -21,3 +22,5 @@ Follow this link to the [Task-List-App](https://captnwalker.github.io/task-list-
 #### License
 
 >MIT
+
+##### *March 2018*
